@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alazar-des/shopping-cart/static/css/main.ce546844.css",
+    "main.js": "/alazar-des/shopping-cart/static/js/main.17dcf989.js",
+    "index.html": "/alazar-des/shopping-cart/index.html",
+    "main.ce546844.css.map": "/alazar-des/shopping-cart/static/css/main.ce546844.css.map",
+    "main.17dcf989.js.map": "/alazar-des/shopping-cart/static/js/main.17dcf989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce546844.css",
+    "static/js/main.17dcf989.js"
+  ]
+}
